@@ -21,7 +21,7 @@ Btw, here is the list:
 | Computer Vision                            | ASL SignLanguage Prediction                | [Github](https://github.com/hungtrab/cv_sign_language_master)       | Third Year      |
 | Parallel and Distributed Programming       | MPI-based Distributed Ray Tracing Renderer | [Github](https://github.com/33-bit/distributed_ray_tracing_render)  | Third Year      |
 | Project II                                 | Coding Agent for Quantized SLM             | [Github](https://github.com/hungtrab/quantized_coding_agent.git)    | Third Year      |
-| Mathematical Modelling                     |                                            |                                                                     | Third Year      |
+| Mathematical Modelling                     | Chaos Control of Shuttle Buses             | [Github](https://github.com/hungtrab/MathModelling.git)             | Third Year      |
 | Project III                                |                                            |                                                                     | Fourth Year     |
 | Big Data Storage and Processing            |                                            |                                                                     | Fourth Year<br> |
 | Business Analytics                         |                                            |                                                                     | Fourth Year<br> |
